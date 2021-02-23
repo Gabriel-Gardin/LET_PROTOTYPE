@@ -1,0 +1,13 @@
+# Target labels
+ bootloader
+# Source files and their labels
+/home/gardin/Documents/dev/LET_PROTOTYPE/.pio/build/esp32cam/CMakeFiles/bootloader
+/home/gardin/Documents/dev/LET_PROTOTYPE/.pio/build/esp32cam/CMakeFiles/bootloader.rule
+/home/gardin/Documents/dev/LET_PROTOTYPE/.pio/build/esp32cam/CMakeFiles/bootloader-complete.rule
+/home/gardin/Documents/dev/LET_PROTOTYPE/.pio/build/esp32cam/bootloader-prefix/src/bootloader-stamp/bootloader-install.rule
+/home/gardin/Documents/dev/LET_PROTOTYPE/.pio/build/esp32cam/bootloader-prefix/src/bootloader-stamp/bootloader-mkdir.rule
+/home/gardin/Documents/dev/LET_PROTOTYPE/.pio/build/esp32cam/bootloader-prefix/src/bootloader-stamp/bootloader-download.rule
+/home/gardin/Documents/dev/LET_PROTOTYPE/.pio/build/esp32cam/bootloader-prefix/src/bootloader-stamp/bootloader-update.rule
+/home/gardin/Documents/dev/LET_PROTOTYPE/.pio/build/esp32cam/bootloader-prefix/src/bootloader-stamp/bootloader-patch.rule
+/home/gardin/Documents/dev/LET_PROTOTYPE/.pio/build/esp32cam/bootloader-prefix/src/bootloader-stamp/bootloader-configure.rule
+/home/gardin/Documents/dev/LET_PROTOTYPE/.pio/build/esp32cam/bootloader-prefix/src/bootloader-stamp/bootloader-build.rule
